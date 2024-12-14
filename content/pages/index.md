@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'I''m Valor, a ROBLOX logo designer.'
+      text: 'I''m Valor, a ROBLOX designer!'
       color: text-dark
     subtitle: Increase your reach
     text: >
