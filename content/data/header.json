@@ -9,8 +9,7 @@
                 "borderRadius": "xx-small"
             }
         },
-        "type": "ImageBlock",
-        "url": "/images/export.png"
+        "type": "ImageBlock"
     },
     "primaryLinks": [
         {
