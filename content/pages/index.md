@@ -32,7 +32,7 @@ sections:
         alignItems: center
   - subtitle: 'Reviews:'
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/export.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
