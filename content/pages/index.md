@@ -148,7 +148,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: 'About US:'
+      label: 'About VALOR:'
       color: text-primary
       styles:
         self:
