@@ -41,7 +41,7 @@ sections:
         altText: Vise logo
         type: ImageBlock
       - url: /images/img-placeholder.svg
-        altText: tea
+        altText: tEEEEEEEAA
         type: ImageBlock
       - url: /images/img-placeholder.svg
         altText: Contentful logo
