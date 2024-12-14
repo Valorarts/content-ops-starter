@@ -34,9 +34,6 @@ sections:
     images:
       - altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
       - altText: Contentful logo
