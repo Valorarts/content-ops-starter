@@ -43,8 +43,7 @@ sections:
       - url: /images/img-placeholder.svg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/abstract-background.svg
-        altText: tEEEEEEEAA
+      - altText: tEEEEEEEAA
         type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo
