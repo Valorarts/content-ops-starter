@@ -37,8 +37,7 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/img-placeholder.svg
-        altText: Vise logo
+      - altText: Vise logo
         type: ImageBlock
       - altText: Contentful logo
         type: ImageBlock
