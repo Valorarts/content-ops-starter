@@ -41,7 +41,7 @@ sections:
         altText: Vise logo
         type: ImageBlock
       - url: /images/img-placeholder.svg
-        altText: Telus logo
+        altText: tea
         type: ImageBlock
       - url: /images/img-placeholder.svg
         altText: Contentful logo
