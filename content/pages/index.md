@@ -43,9 +43,6 @@ sections:
         type: ImageBlock
       - altText: tEEEEEEEAA
         type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
