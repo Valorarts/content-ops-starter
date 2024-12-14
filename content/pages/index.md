@@ -40,8 +40,7 @@ sections:
       - url: /images/img-placeholder.svg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/img-placeholder.svg
-        altText: Contentful logo
+      - altText: Contentful logo
         type: ImageBlock
       - altText: tEEEEEEEAA
         type: ImageBlock
