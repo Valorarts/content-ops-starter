@@ -30,7 +30,7 @@ sections:
     styles:
       self:
         alignItems: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: 'Reviews:'
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
