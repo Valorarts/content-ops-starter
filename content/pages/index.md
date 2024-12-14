@@ -8,9 +8,8 @@ sections:
       text: 'I''m Valor, a ROBLOX designer!'
       color: text-dark
     subtitle: I specialize in ROBLOX Logo and UI design.
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |
+      Would you like to order?
     actions:
       - type: Button
         label: Get started
