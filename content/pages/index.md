@@ -52,7 +52,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: 'Hey, I am Valor'
       color: text-dark
       styles:
         self:
