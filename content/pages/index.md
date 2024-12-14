@@ -13,7 +13,7 @@ sections:
       Click "Learn more"
     actions:
       - type: Button
-        label: Get started
+        label: Learn more
         url: /
         icon: arrowRight
         iconPosition: right
