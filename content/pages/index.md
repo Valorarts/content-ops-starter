@@ -9,7 +9,8 @@ sections:
       color: text-dark
     subtitle: I specialize in ROBLOX Logo and UI design.
     text: |
-      Would you like to order?
+      Would you like to order? 
+      Click "learn more"
     actions:
       - type: Button
         label: Get started
