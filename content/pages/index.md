@@ -40,7 +40,7 @@ sections:
       - url: /images/img-placeholder.svg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/img-placeholder.svg
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
