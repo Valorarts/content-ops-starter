@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: 'I''m Valor, a ROBLOX designer!'
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: I specialize in ROBLOX Logo and UI design.
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
